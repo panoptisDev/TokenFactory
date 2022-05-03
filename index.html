@@ -1197,6 +1197,17 @@ document.getElementById("adminAddress").value = web3.currentProvider.selectedAdd
                //getCandicate(1);
                //getCandicate(2);
 
+		    
+		    var networkId = await web3.eth.net.getId();
+console.log('Current NetworkID:',networkId);
+var str = web3.currentProvider.selectedAddress;
+var string = web3.currentProvider.selectedAddress;
+var length = (web3.currentProvider.selectedAddress).length -4;
+var FirstString = string.substring(0, 6);
+var LastString= string.substring(length, (web3.currentProvider.selectedAddress).length);
+var final=FirstString+ '.......'+ LastString ;
+
+$('#CurrentAddress').html(final);
 //var CurrentAccount = web3.currentProvider.selectedAddress;
 //console.log("current address:",CurrentAccount);
 //TransferContract= await web3.eth.contract(TokenSmartContractABI).at(TokenSmartContractAddress);
