@@ -385,6 +385,7 @@
 
     <ul class="navbar-nav align-items-lg-center ml-lg-auto">
           <li class="nav-item">
+		  <span  id='CurrentAddress'  > </span>
           <img src="mm-logo.svg" width="211" alt="" class="image-3">
             <span id='CurrentAddress'></span>
           </li>
@@ -1152,6 +1153,22 @@ var TokenContract;
                     // Request account access if needed
                     await ethereum.enable();
                     // Acccounts now exposed
+			
+			                    // detect Metamask account change
+                    window.ethereum.on('accountsChanged', function (accounts) {
+                    console.log('accountsChanges',accounts);
+                    window.location.reload();
+                   });
+
+                    // detect Network account change
+                    window.ethereum.on('networkChanged', function(networkId){
+
+                    console.log('networkChanged',networkId);
+                    window.location.reload();
+
+                     });
+			
+			
                     return true;
                 } catch (error) {
                     
