@@ -19,7 +19,7 @@ https://algonetwork.github.io/EVM-Blockchain-Index/
 
 イーサリアムERC20トークンのワンクリック発行<br>
 การออกโทเค็น Ethereum ERC20 เพียงคลิกเดียว<br>
-以太坊ERC20代币一键发币<br>
+以太坊/以太坊相似 ERC20代币一键发币<br>
 صدور نشانه های Ethereum ERC20 با یک کلیک
 <br>
 ### Support Language:
