@@ -40,7 +40,7 @@ Wrapped MIR Token (MIR),VAI Stablecoin (VAI),Venus ETH (vETH),Orica (ORI),Binanc
 ><br>فارسی
 <img src="https://github.com/AlgoNetwork/TokenFactory/blob/main/website.png" alt="generate-erc20-token">
 
-Live site:
+site:
 https://algonetwork.github.io/TokenFactory/
 
 
