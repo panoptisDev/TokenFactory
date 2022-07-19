@@ -2,7 +2,7 @@
 Issuing your own token on the Ethereum and Binance Chain with One-Click.<br>
 Support Mintable,Pausable,Capped,Burnable , multi Function ERC20 Tokens ,USDT Template and ERC721 token clone.
 
-### *Ethereum-Like(EVM)* chains:
+### Support all the EVM-compatible blockchains:
 You can deploy these token to any Ethereum Virtual Machine Blockchain, like: Ethereum,Binance,Polygon,Fantom,0xDai,Avalanche,Thundercore,heco,avax,Harmony,Moonriver,OKex,XinFin,Ubiq,Arbitrum,Theta,Wegochain,Akroma,moonriver,Moonbeam,telos...<br>
 And you could also deploy these token to any test network,like: Ropsten,Kovan,Rinkby and Binance testnet... <br>
  
