@@ -1,0 +1,44 @@
+{
+		"Token Factory-Generate your own ERC20 token with one-click!support Mintable,Burnable,Pausable,Fix amount token...": "토큰 공장 - 한 번의 클릭으로 자신의 ERC20 토큰을 생성하십시오! 지원 Mintable, Burnable, Pausable, Fix amount token...",
+	"Token Factory": "토큰 공장",
+	"ERC20 Token Type": "ERC20 토큰 유형",
+	"Token Name": "토큰 이름",
+	"Token Symbol": "토큰 기호",
+	"Total Supply": "총 공급",
+	"Token Detail": "토큰 세부 정보",
+	"Add token to metamask": "메타마스크에 토큰 추가 Metamask",
+	"Generate Token": "토큰 생성",
+	"Fee:": "요금:",
+
+	"The total amount of token is fixed, no more tokens can be issued, and no more tokens can be destroyed.":"토큰의 총량이 고정되어 더 이상 토큰을 발행할 수 없으며 더 이상 토큰을 파괴할 수 없습니다.",
+	"Admin will be able to mint more tokens.":"관리자는 더 많은 토큰을 발행할 수 있습니다." ,
+	"Token holders will be able to destroy their tokens.":"토큰 보유자는 토큰을 파괴할 수 있습니다.",
+	"Privileged accounts will be able to pause the functionality marked as whenNotPaused. Useful for emergency response.":"권한이 있는 계정은 whenNotPaused로 표시된 기능을 일시 중지할 수 있습니다. 긴급 대응에 유용합니다." ,
+	"Mintable+Burnable+Pausable":"Mintable+Burnable+Pausable",
+	"Built-in flash loans. Lend tokens without requiring collateral as long as they're returned in the same transaction.":"내장 플래시 대출. 동일한 거래에서 반환되는 한 담보 없이 토큰을 빌려줍니다.",
+	"Keeps track of historical balances for voting in on-chain governance, with a way to delegate one's voting power to a trusted account.":"투표권을 신뢰할 수 있는 계정에 위임하는 방법을 사용하여 온체인 거버넌스에서 투표를 위한 역사적 잔고를 추적합니다.",
+	"Without paying gas, token holders will be able to allow third parties to transfer from their account.":"가스를 지불하지 않고 토큰 보유자는 제3자가 자신의 계정에서 이체하도록 허용할 수 있습니다.",
+
+	"Question & Answer": "질문 답변",
+	"After generate token, what do I get?": "토큰을 생성한 후 무엇을 얻습니까?",
+	"After generating the token, you are the owner of the token and get the number of tokens you specified.": "토큰을 생성한 후에는 토큰의 소유자가 되며 지정한 수의 토큰을 가져옵니다.",
+
+	"Where can I find my deployed token?":"Where can I find my deployed token?" ,
+"Click on the address in the upper right corner of this website，You can see all records, including deployed contracts.": "Click on the address in the upper right corner of this website，You can see all records, including deployed contracts.",
+"What do I need to prepare before generating the token?": "What do I need to prepare before generating the token?",
+"You need install Metamask wallet or other wallet.and then send some funds to your metamask account.": "You need install Metamask wallet or other wallet.and then send some funds to your metamask account.",
+
+
+
+
+
+
+
+
+
+
+	"description": {
+		"part1": "代币名称",
+		"part2": "Switch language between english and german using buttons above."
+	}
+}
