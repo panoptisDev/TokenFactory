@@ -1,0 +1,35 @@
+{
+	"Token Factory-Generate your own ERC20 token with one-click!support Mintable,Burnable,Pausable,Fix amount token...": "Фабрика токенов-Создайте свой собственный токен ERC20 одним щелчком мыши! Поддержите Mintable, Burnable, Pausable, токен с фиксированной суммой ...",
+	"Token Factory": "Фабрика жетонов",
+	"ERC20 Token Type": "Тип токена ERC20",
+	"Token Name": "Имя токена",
+	"Token Symbol": "Символ токена",
+	"Total Supply": "Общее предложение",
+	"Token Detail": "Сведения о токене",
+	"Add token to metamask": "Добавить токен в метамаску",
+	"Generate Token": "Сгенерировать токен",
+	"Fee:": "Платеж",
+
+	"The total amount of token is fixed, no more tokens can be issued, and no more tokens can be destroyed.":"Общее количество жетонов фиксировано, больше нельзя выпускать жетоны, и больше нельзя уничтожать жетоны.",
+	"Admin will be able to mint more tokens.":"Администратор сможет чеканить больше токенов" ,
+	"Token holders will be able to destroy their tokens.":"Владельцы токенов смогут уничтожить свои токены.",
+	"Privileged accounts will be able to pause the functionality marked as whenNotPaused. Useful for emergency response.":"Привилегированные учетные записи смогут приостанавливать функциональность, помеченную как whenNotPaused. Полезно для экстренного реагирования." ,
+	"Mintable+Burnable+Pausable":"Минтабль+Сжигаемый+Пауза",
+	"Built-in flash loans. Lend tokens without requiring collateral as long as they're returned in the same transaction.":"Встроенные мгновенные кредиты. Одалживайте токены без залога, если они возвращаются в той же транзакции.",
+	"Keeps track of historical balances for voting in on-chain governance, with a way to delegate one's voting power to a trusted account.":"Отслеживает исторические балансы для голосования в управлении по цепочке с возможностью делегирования права голоса доверенной учетной записи",
+	"Without paying gas, token holders will be able to allow third parties to transfer from their account.":"Без оплаты газа держатели токенов смогут разрешить третьим лицам осуществлять переводы со своего счета.",
+
+	"Question & Answer": "Вопрос ответ",
+	"After generate token, what do I get?": "После генерации токена, что я получаю?",
+	"After generating the token, you are the owner of the token and get the number of tokens you specified.": "После создания токена вы становитесь владельцем токена и получаете указанное вами количество токенов.",
+	"Where can I find my deployed token?":"Where can I find my deployed token?" ,
+	"Click on the address in the upper right corner of this website，You can see all records, including deployed contracts.": "Click on the address in the upper right corner of this website，You can see all records, including deployed contracts.",
+	"What do I need to prepare before generating the token?": "What do I need to prepare before generating the token?",
+	"You need install Metamask wallet or other wallet.and then send some funds to your metamask account.": "You need install Metamask wallet or other wallet.and then send some funds to your metamask account.",
+
+
+	"description": {
+		"part1": "",
+		"part2": ""
+	}
+}
