@@ -5,7 +5,13 @@ Support Mintable,Pausable,Capped,Burnable,USDT and multi Function ERC20 Tokens,B
 ### Support all the EVM-compatible blockchains:
 You can deploy these token to any Ethereum Virtual Machine Blockchain, like: Ethereum,Binance,Polygon,Fantom,0xDai,Avalanche,Thundercore,heco,avax,Harmony,Moonriver,OKex,XinFin,Ubiq,Arbitrum,Theta,Wegochain,Akroma,moonriver,Moonbeam,telos,cronos,celo...<br>
 And you could also deploy these token to any test network,like: Ropsten,Kovan,Rinkby and Binance testnet... <br>
- 
+
+
+<img src="https://github.com/AlgoNetwork/TokenFactory/blob/main/website.png" alt="generate-erc20-token">
+
+Website:
+https://tokenfactorydapp.netlify.app/
+
 ### Tutorial Video:<br>
 https://youtu.be/37eDqbnDKhI
 <br>
@@ -38,10 +44,7 @@ Wrapped MIR Token (MIR),VAI Stablecoin (VAI),Venus ETH (vETH),Orica (ORI),Binanc
 >日本語<br>
 >ไทย<br>
 ><br>فارسی
-<img src="https://github.com/AlgoNetwork/TokenFactory/blob/main/website.png" alt="generate-erc20-token">
 
-Website:
-https://algonetwork.github.io/TokenFactory/
 
 
 
